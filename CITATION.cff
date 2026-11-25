@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Jika memakai kode atau data ini, mohon sitasi sebagai berikut."
+title: "Kode dan data simulasi analisis efektivitas biaya trashboom dan partisipasi masyarakat dalam pembersihan sampah sungai"
+type: software
+authors:
+  - family-names: "Putri"
+    given-names: "Sri Mustika Indah Permata"
+  - family-names: "Vandriya"
+    given-names: "Agni Galuh Essa"
+  - family-names: "Yaqin"
+    given-names: "Muhammad Ainul"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/USERNAME/NAMA-REPOSITORI"
+keywords:
+  - cost-effectiveness analysis
+  - Monte Carlo simulation
+  - river waste
+  - trashboom
