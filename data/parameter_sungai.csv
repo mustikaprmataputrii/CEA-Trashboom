@@ -1,0 +1,11 @@
+kode,nama,wilayah,akses,lebar_m,capex_rp,perawatan_rp_per_bulan,umk_rp_per_bulan,transport_rp_per_hari,vol_min_ton_bulan,vol_max_ton_bulan
+S01,Kali Tebu,Surabaya,Mudah,20.0,58500000,2400000,5288796,900000,24,93
+S02,Kalimas,Surabaya,Mudah,27.0,81900000,3240000,5288796,1200000,36,135
+S03,Kalianak,Surabaya,Sulit,18.6,58500000,2230000,5288796,950000,165,285
+S04,Brantas (Gedeg),Mojokerto,Sedang,40.0,117000000,4800000,5176101,1300000,180,300
+S05,Brangkal,Mojokerto,Sedang,12.0,35100000,1440000,5176101,750000,8,26
+S06,Kali Porong,Sidoarjo,Sedang,35.0,102375000,4200000,5191541,1200000,150,270
+S07,Kali Marmoyo,Jombang,Sedang,15.0,43875000,1800000,3320770,800000,6,23
+S08,Kali Sadar,Mojokerto,Mudah,16.5,48262500,1980000,5176101,750000,30,114
+S09,Kali Surabaya,Surabaya,Sedang,70.0,204750000,8400000,5288796,1900000,45,144
+S10,Kali Dami,Surabaya,Mudah,22.0,64350000,2640000,5288796,1000000,9,27
